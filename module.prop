@@ -1,0 +1,9 @@
+id=bg_apps_limit-mod-b
+name=修改 bg_apps_limit 限制（B Plan）
+version=v1（氢 OS 2.5.2）
+versionCode=1
+author=Ezalor
+description=将后台应用限制修改为 42（替换整个 build.prop）
+support=
+donate=
+cacheModule=true
