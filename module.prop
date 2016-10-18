@@ -6,4 +6,4 @@ author=Ezalor
 description=将后台应用限制修改为 42（替换整个 build.prop）
 support=
 donate=
-cacheModule=true
+cacheModule=false
