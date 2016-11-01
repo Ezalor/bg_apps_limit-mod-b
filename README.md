@@ -7,4 +7,4 @@ ro.sys.fw.bg_apps_limit=42
 
 B Plan：替换整个 build.prop
 
-当前版本：氢 OS 2.5.2。
+当前版本：氢 OS 2.5.3。
